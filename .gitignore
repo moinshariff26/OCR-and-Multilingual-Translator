@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Uploads
+uploaded_images/
+uploaded_images
+
+# Temporary files
+temp/
+
+# Virtual environments
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+
